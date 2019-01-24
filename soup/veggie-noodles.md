@@ -1,9 +1,9 @@
-#Veggie Noodles with Instant Pot Tomato Sauce
+# Veggie Noodles with Instant Pot Tomato Sauce
 *Serves 4 with about 4 cups sauce leftover*
 
 This recipe will be ready in about 40 minutes and will give you a generous amount of sauce, plenty for meals later in the week.
 
-##Ingredients:
+## Ingredients:
 
 * 2 tablespoons extra-virgin olive oil
 * 4 cloves garlic, chopped
@@ -19,7 +19,7 @@ This recipe will be ready in about 40 minutes and will give you a generous amoun
 * 1/2 teaspoon kosher salt
 * 1/4 cup basil or parsley leaves, thinly sliced or chopped
 
-##Directions:
+## Directions:
 
 Set an Instant Pot to high sauté setting. Add oil, garlic, carrot and onion and cook, stirring, until vegetables are just softened, about 5 minutes. Add tomatoes, vinegar, Parmigiano Reggiano rind (if using), pepper flakes, thyme, oregano, salt and pepper. Set the pot to high pressure and make sure the pressure valve is in the "seal" position. Set timer to 25 minutes. Press start. When cooking is complete, allow pressure to release naturally. Open pot and discard rind, if using.
 
